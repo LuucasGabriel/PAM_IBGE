@@ -68,3 +68,6 @@ Se você chegou até aqui, minha gratidão!
 Estou totalmente aberto a **sugestões, melhorias e novas ideias** para evoluir ainda mais este projeto.  
 
 ---
+
+Link do artigo detalhando o projeto: 
+

@@ -69,5 +69,5 @@ Estou totalmente aberto a **sugestões, melhorias e novas ideias** para evoluir 
 
 ---
 
-Link do artigo detalhando o projeto: 
+Link do artigo detalhando o projeto: https://www.linkedin.com/pulse/an%C3%A1lise-da-produ%C3%A7%C3%A3o-agr%C3%ADcola-na-cati-regional-de-tup%C3%A3sp-lucas-gabriel-opmdf/?trackingId=muKxNq2dQiCG%2Bvg7Bse0lQ%3D%3D
 

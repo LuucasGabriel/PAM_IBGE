@@ -68,6 +68,7 @@ Se você chegou até aqui, minha gratidão!
 Estou totalmente aberto a **sugestões, melhorias e novas ideias** para evoluir ainda mais este projeto.  
 
 ---
+- Visualizar Análise em Python: [PAM - Produção Agrícula Municipal](https://github.com/LuucasGabriel/PAM_IBGE/blob/main/visualizando.ipynb)
 
-Link do artigo detalhando o projeto: https://www.linkedin.com/pulse/an%C3%A1lise-da-produ%C3%A7%C3%A3o-agr%C3%ADcola-na-cati-regional-de-tup%C3%A3sp-lucas-gabriel-opmdf/?trackingId=muKxNq2dQiCG%2Bvg7Bse0lQ%3D%3D
+- Artigo: [PAM - Produção Agrícula Municipal](https://www.linkedin.com/pulse/an%C3%A1lise-da-produ%C3%A7%C3%A3o-agr%C3%ADcola-na-cati-regional-de-tup%C3%A3sp-lucas-gabriel-opmdf/?trackingId=muKxNq2dQiCG%2Bvg7Bse0lQ%3D%3D)
 

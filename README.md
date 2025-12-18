@@ -71,7 +71,7 @@ O modelo foi aplicado especificamente às três culturas analisadas neste estudo
 
 ### 🧠 Metodologia do Modelo
 
-- Utilização de dados históricos no período de **2015 a 2023**
+- Utilização de dados históricos no período de **2016 a 2023**
 - Construção de uma **série temporal** com variáveis defasadas:
   - `qtd_lag_1`: produção do ano anterior  
   - `qtd_lag_2`: produção de dois anos anteriores  

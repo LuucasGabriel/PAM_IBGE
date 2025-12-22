@@ -1,6 +1,6 @@
-# 📊 Análise da Produção Agrícola – CATI Regional de Tupã/SP
+# 📊 Análise da Produção Agrícola –   Regional de Tupã/SP
 
-Este projeto tem como objetivo analisar a **produção agrícola** na região da **CATI Regional de Tupã/SP**, utilizando dados oficiais do **PAM/IBGE**.  
+Este projeto tem como objetivo analisar a **produção agrícola** na região da Regional de Tupã/SP**, utilizando dados oficiais do **PAM/IBGE**.  
 Foram considerados **14 municípios** e três culturas de grande relevância econômica: **cana-de-açúcar, mandioca e amendoim (em casca)**.  
 
 A análise contempla desde o **tratamento e integração dos dados** até a **visualização espacial (mapas coropléticos)** e a **estimativa de valor econômico da produção**.  
